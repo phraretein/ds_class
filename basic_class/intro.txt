@@ -1,0 +1,8 @@
+Steps for making model:
+get problem
+get data -> อะไรที่เป็นตัวเลข เอาง่าย ๆ ละค่อยมาใส่เพิ่ม
+clean data
+feature extraction -> แปลง descriptive -> เลข
+model train
+model evaluate
+score
