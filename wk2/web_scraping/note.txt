@@ -1,0 +1,3 @@
+Libraries:
+beautifulsoup -> can't run javascript
+selenium -> simulation (render javascript)
